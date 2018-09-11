@@ -1,0 +1,29 @@
+body
+{
+	background-color: white;
+}
+.content h1
+{
+	margin-left: 45%;	
+}
+.about_content h1
+{
+	margin-left: 45%;
+}
+.form1
+{
+	margin-left: 45%;
+}
+.form1 input[type=submit]
+{
+	margin-left: 6%;
+}
+footer p span
+{
+	float: right;
+	margin-right: 3%;
+}
+footer p
+{
+	margin-left: 3%;
+}
